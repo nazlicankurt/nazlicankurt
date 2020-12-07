@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nazlicankurt/nazlicankurt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Nazlican Kurt</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <meta name="author" content="Nazlican Kurt" />
+    <meta name="twitter:site" content="@nazlinux" />
+    <meta
+      name="description"
+      content="A software developer who wants to 'develop' herself"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:title" content="Nazlican  Kurt" />
 
-### Markdown
+    <meta property="og:image" content="/images/front.jpg" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
-```markdown
-Syntax highlighted code block
+    <link rel="stylesheet" href="/./dist/index.7153b7360333cc7a9f51.css">
+    <link rel="stylesheet" href="/webfonts/ss-social.css" type="text/css" />
 
-# Header 1
-## Header 2
-### Header 3
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
 
-- Bulleted
-- List
+  <body class="">
+    
 
-1. Numbered
-2. List
+    <div class="flex h-screen">
+  <div class="lg:w-2/3 mx-4 m-auto lg:m-auto">
+    <div class="">
+      <h1 class="text-5xl font-extrabold tracking-tighter">
+        <span class="bg-clip-text text-transparent bg-gradient-to-r from-my-orange to-my-pink text-5xl font-extrabold">Zach Holman!</span>
+      </h1>
 
-**Bold** and _Italic_ and `Code` text
+      <div class="text-gray-700 text-lg font-light leading-loose">
+        <strong class="font-bold text-gray-700 text-md">likes coding, researching</strong> 
+         I am one of the new engineers  <a href="https://github.com/nazlicankurt">GitHub</a>
+         <a href="https://stackshare.io">StackShare</a>, and <a href="https://workos.com">WorkOS</a>.
+      </div>
+    </div>
 
-[Link](url) and ![Image](src)
-```
+    <div class="my-8 lg:text-right">
+      <ul class="text-2xl tracking-tight nav-links">
+        <li class="lg:inline">
+          <a href="/about" class="md:px-6 py-4">About</a>
+        </li>
+        <li class="lg:inline">
+          <a href="/posts" class="md:px-6 py-4">Coding</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+  </body>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</html>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nazlicankurt/nazlicankurt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
