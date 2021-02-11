@@ -1,4 +1,4 @@
-<h1> It's Nazlican </h1>
+<h1> Hi there, It's Nazlican 👋 </h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/kurtnazlican/" target="_blank">
