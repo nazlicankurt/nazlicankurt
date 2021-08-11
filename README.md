@@ -8,7 +8,7 @@
 
 <p align="center"> 
  <strong>
-🔭 I’m currently working on Detaysoft
+🔭detay technology
   </strong>
 </p>
 
