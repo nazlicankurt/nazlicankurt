@@ -8,7 +8,7 @@
 
 <p align="center"> 
  <strong>
-🔭timefonds
+🔭
   </strong>
 </p>
 
