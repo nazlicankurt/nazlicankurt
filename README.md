@@ -9,6 +9,8 @@
 </p>
 
 <p align="center">
+ 
+ <img src="https://img.icons8.com/color/48/000000/react-js.png" alt="React"/>
  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native"/>
  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
